@@ -64,7 +64,7 @@ The PCB is designed using **KiCad** and supports a **GPS module, OLED display, b
 
 
 ### 🟣 Layout View
-![Layout View](Schematic_and_BOM\layout.jpg)
+![Layout View](Schematic_and_BOM/layout.jpg)
 
 ### 🟠 3D View
 ![3D View](Schematic_and_BOM/GPS_TRACKER_MINI.png)
