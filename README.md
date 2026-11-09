@@ -1,4 +1,4 @@
-# GPS Tracker – PCB Design (Allgero)
+# GPS Tracker – PCB Design (Kicad)
 
 ## 📌 Overview
 This project is a **PCB design for a GPS Tracker system** based on **Arduino**.  
