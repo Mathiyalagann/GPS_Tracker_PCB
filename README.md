@@ -1,4 +1,4 @@
-# GPS Tracker – PCB Design (Arduino)
+# GPS Tracker – PCB Design (Allgero)
 
 ## 📌 Overview
 This project is a **PCB design for a GPS Tracker system** based on **Arduino**.  
